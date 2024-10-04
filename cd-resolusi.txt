@@ -3,3 +3,4 @@ CD RESOLUSI
 - Memperluas Knowledge Hardskill yang mumpuni untuk kerja
 - Menguasai Fullstack Web Developtment
 - Membuat Website Portofolio
+- Belajar IoT
